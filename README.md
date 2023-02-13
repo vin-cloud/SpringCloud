@@ -1,3 +1,5 @@
+![logo](/images/logo.png "SpringCloud Inc.")
+
 # SpringCloud Product Page 
 
 
