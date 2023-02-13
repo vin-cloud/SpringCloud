@@ -4,7 +4,7 @@
 
 
 
-|    **Product**    |                               **Description**                              |                  **Link**                 |   **Link**  |
+|    **Product**    |                               **Description**                              |                  **Link**                 |             **Additional Link**               |
 |:-----------------:|:--------------------------------------------------------------------------:|:-----------------------------------------:|-----------------------------------:|
 | OperaKit          | Repositories containing code, documents and related materials for OperaKit | https://github.com/OperaKIT               |[![OperaKit](/images/opkit.png)](https://youtu.be/hBkETfOOvOo "OperaKit Demo")|
 | Autoware Universe | Repositories containing customized Autoware Universe for various mobility  | https://github.com/Autoware-Core-Universe |   |
