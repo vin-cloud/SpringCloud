@@ -1,4 +1,4 @@
-![logo](/images/logo3.png "SpringCloud Inc.")
+![logo](/images/logo4.png "SpringCloud Inc.")
 
 # SpringCloud 개발자용 깃허브 
 
